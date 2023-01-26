@@ -11,7 +11,8 @@ Hướng Dẫn Thực Hiện Bằng Anaconda Prompt:
 - Tải dlib về môi trường: __conda install -c conda-forge dlib__
 - Tải opencv: __conda install -c conda-forge opencv__
 - Tải numpy: __conda install numpy__
---Lưu ý: Trong quá trình tải nếu xuất hiện câu hỏi: Proceed ([y]/n)? thì nhấn y rồi enter.
+
+-Lưu ý: Trong quá trình tải nếu xuất hiện câu hỏi: Proceed ([y]/n)? thì nhấn y rồi enter.
 
 Sau khi tải xong các thư viện cần thiết, dùng lệnh cd để đi vào thư mục môi trường __testCS231__ vừa mới tạo, dùng gitclone: __git clone https://github.com/codervux/CS231-20520350.git__ (clone git về trong cái môi trường vừa tạo thì mới có thư viện để chạy code)
 ![image](https://user-images.githubusercontent.com/74999534/214907262-4ea91e2e-66ee-4958-a2f8-06b0f926b684.png)
@@ -24,3 +25,4 @@ Sau khi tải xong các thư viện cần thiết, dùng lệnh cd để đi và
 - Để dễ hình dung thì dưới đây là đường dẫn cụ thể của file source code
 ![image](https://user-images.githubusercontent.com/74999534/214907828-1edca177-1c56-4aa3-b10b-172bbabc625a.png)
 
+__NOTE: Tóm lại, có thể không dùng anaconda, Nhưng bắt buộc phải clone git về, và tải 3 thư viện cần thiết là dlib, opencv và numpy thì sẽ chạy được code__
