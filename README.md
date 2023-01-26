@@ -2,7 +2,7 @@
 Đồ Án CUối Kỳ Nhập Môn TGMT của Bùi Long Vũ
 
 
-NOTE: Clone Code thì mới có file "shape_predictor_68_face_landmarks.dat", nếu không clone sẽ ra code lỗi. 
+**NOTE: Clone Code thì mới có file "shape_predictor_68_face_landmarks.dat", nếu không clone sẽ ra code lỗi. **
 
 
 Hướng Dẫn Thực Hiện Bằng Anaconda Prompt, Sau khi clone:
