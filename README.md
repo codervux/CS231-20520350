@@ -20,3 +20,7 @@ Sau khi tải xong các thư viện cần thiết, dùng lệnh cd để đi và
 
 - Sau đó, cd vào thư mục CS231-20520350 mới clone về, chạy file: python realtime_face_swapping.py
 - Lúc chạy mặt phải hướng thẳng và nhìn vào camera, đầu hơi ngẩng lên.
+
+- Để dễ hình dung thì dưới đây là đường dẫn cụ thể của file source code
+![image](https://user-images.githubusercontent.com/74999534/214907828-1edca177-1c56-4aa3-b10b-172bbabc625a.png)
+
